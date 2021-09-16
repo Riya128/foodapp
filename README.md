@@ -1,2 +1,2 @@
 ### Screenshots:
-<img src="src/components/screenshots/image1.PNG">
+<img src="https://github.com/Riya128/foodapp/blob/main/src/screenshots/image1.PNG">
