@@ -1,2 +1,2 @@
 ### Screenshots:
-<img src="image1.PNG">
+<img src="src/components/screenshots/image1.PNG">
