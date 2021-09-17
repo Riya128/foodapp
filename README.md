@@ -1,9 +1,9 @@
 # Food App
 Food app made using ReactJs
 ### Screenshots:
-1.
+
 <img src="https://github.com/Riya128/foodapp/blob/main/src/screenshots/image1.PNG">
-2.Cart displaying the food items selected 
+###### Cart displaying the food items selected. To order food click on order.
 <img src="https://github.com/Riya128/foodapp/blob/main/src/screenshots/image2.PNG">
-3.To order food enter details in the form and click on order.
+###### To order food enter details in the form and click on confirm.
 <img src="https://github.com/Riya128/foodapp/blob/main/src/screenshots/image3.jpg">
